@@ -12,6 +12,7 @@
 - Python.
 - `pip install docx`.
 - `pip install python-docx`.
+- `pip install html2image`.
 - Chrome або Chromium.
 
 ## Використання
